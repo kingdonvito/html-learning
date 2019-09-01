@@ -1,0 +1,113 @@
+<!doctype html>
+<p id=top>
+	<head>
+	
+	
+	
+	
+	
+	
+	</head>
+
+	<body>
+		
+		<h1>this is a big header</h1>
+		<h2>this is quite a big header</h2>
+		<h3>this is an h3 header</h3>
+		<h4>this is an h4 header</h4>
+		
+		<p id=styles>here is some <strong>bold</strong> text</p>
+		<p>here is some <em>italic</em> text</p>
+		<p>here is some text <br> with a line break and some <ins>underlined</ins> text</p>
+		<p>here is some <sup>superscript</sup></p>
+		<p>here is some <sub>subscript</sub></p>
+		<p>here is some <del>deleted</del> text</p>
+		<p>here is some <mark>marked</mark> text</p>
+		<p>here is some <small>smaller</small> text </p>
+		<p>here is some <big>bigger</big> text</p>
+			<ul>
+				<li><strong>item1</strong></li>
+				<li><em>item2</em></li>
+				<li><em><sub><ins>item3</em><sub></ins></li>
+			</ul>
+			<ol>
+				<li><strong>item1</strong></li>
+				<li><em>item2</em></li>
+				<li><em><sub><ins>item3</em><sub></ins></li>
+			</ol>	
+			<ol reversed>
+				<li><strong>item1</strong></li>
+				<li><em>item2</em></li>
+				<li><em><sub><ins>item3</em><sub></ins></li>
+			</ol>	
+			
+			<p><a href="http://www.google.com"><img src=matrix2.jpg width=300 align=right></a><p>
+			matrix 
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<img src=https://static.pjmedia.com/vodkapundit/user-content/21/files/2019/06/matrix-356024_1920.sized-770x415xb.jpg width=400 align=right>
+			
+		<form>
+				
+				<p>Username<input type=text placeholder="your username"> </p>
+				<p><input type=checkbox checked></p>
+				<p>Over 18<input type=radio name=age value="u18"></p>
+				<p>Under 18<input type=radio name=age value="o18"></p>
+				<p> favorite food:
+				
+					<select>
+						<option>pizza</option>
+						<option selected>ice cream</option>
+						<option>cake</option>
+					</select>
+					
+					<p><input type=submit value="click me"></p>
+				
+				<table>
+						<thead>
+							<tr>
+								<th>Name</th>
+								<th>favorite<br> color</th>
+							</tr>
+					<tbody>
+					
+					<tr>
+						<td>rob</td>
+						<td>Green</td>
+					</tr>
+					<tr>
+						<td>mike</td>
+						<td>blue</td>
+					<tr>
+						<td>paul</td>
+						<td>yellow</td>
+				</table>		
+					
+				<p><a href="http://www.google.com">Click here to go to google</a></p>
+				
+				<p><a href=#top>Back to top</a></p>
+				<p><a href=#styles>Back to variables</a></p>	
+					
+				&lt;a&gt;	
+					
+				<iframe src="http://www.flexboxfroggy.com"></iframe>	
+					
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/8xg3vE8Ie_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</body>
+
+
+
+
+
+
+
+
+</html>
